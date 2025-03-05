@@ -50,4 +50,3 @@ To repozytorium zawiera ćwiczenia laboratoryjne zrealizowane w ramach przedmiot
 - Spark Structured Streaming
 - GraphFrames
 - Spark MLlib
-- 
